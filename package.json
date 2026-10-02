@@ -1,0 +1,35 @@
+{
+  "name": "hodavia-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio éditorial et technique de Hodavia Bangbola",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelSgn25/Hodavia-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelSgn25/Hodavia-Portfolio/issues"
+  },
+  "homepage": "https://github.com/SamuelSgn25/Hodavia-Portfolio#readme",
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.17",
+    "vite": "^8.3.2"
+  }
+}
